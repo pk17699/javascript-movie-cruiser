@@ -1,0 +1,62 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Lion King",
+      "year": "2019",
+      "runtime": "118 min",
+      "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Mowgli: Legend of the Jungle",
+      "year": "2018",
+      "runtime": "104 min",
+      "overview": "Human child Mowgli is raised by a wolf pack in the jungles of India.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Doctor Strange",
+      "year": "2016",
+      "runtime": "115 min",
+      "overview": "Dr. Stephen Strange's (Benedict Cumberbatch) life changes after a car accident robs him of the use of his hands.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": "4",
+      "title": "John Wick",
+      "year": "2014",
+      "runtime": "101 min",
+      "overview": "Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "1",
+      "title": "The Lion King",
+      "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Mowgli: Legend of the Jungle",
+      "overview": "Human child Mowgli is raised by a wolf pack in the jungles of India.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Doctor Strange",
+      "overview": "Dr. Stephen Strange's (Benedict Cumberbatch) life changes after a car accident robs him of the use of his hands.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": "4",
+      "title": "John Wick",
+      "overview": "Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    }
+  ]
+}
